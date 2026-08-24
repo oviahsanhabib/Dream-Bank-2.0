@@ -1,0 +1,158 @@
+﻿@page
+@model Dream_Bank.Pages.Clients.ViewModel
+@{
+    ViewData["Title"] = "View page";
+}
+<pre></pre>
+<div class="container">
+    <div class="main-body">
+
+        <div class="row gutters-sm">
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-column align-items-center text-center">
+                            <img src="data:image/png;base64,@Convert.ToBase64String(Model.ImageData)" alt="Profile Picture" class="rounded-circle" width="200" height="200">
+                            <div class="mt-3">
+                                <h4>@Model.clientInfo.fname  @Model.clientInfo.lname</h4>
+                                <p class="text-secondary mb-1">@Model.clientInfo.email</p>
+                                <p class="text-muted font-size-sm">@Model.clientInfo.city,@Model.clientInfo.state</p>
+                                <p class="text-muted font-size-sm"> Current Balance: $@Model.clientInfo.indeposit</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-8">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Full Name</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.fname  @Model.clientInfo.lname
+                            </div>
+                        </div>
+
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Account Number</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.account_no
+                            </div>
+                        </div>
+                        <hr>
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Account Type</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.account_type
+                            </div>
+                        </div>
+                        <hr>
+
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Gender</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.gender
+                            </div>
+                        </div>
+                        <hr>
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Date of Birth</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.dob
+                            </div>
+                        </div>
+                        <hr>
+
+
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Email</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.email
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Phone</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.phone
+                            </div>
+                        </div>
+                        <hr>
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Address</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.address,@Model.clientInfo.city,@Model.clientInfo.state,@Model.clientInfo.postal,@Model.clientInfo.country
+                            </div>
+                        </div>
+                        <hr>
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Social Security Number</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.ssn
+                            </div>
+                        </div>
+                        <hr>
+                        <hr>
+
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Client Enrollment Date</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.clientInfo.created_at
+                            </div>
+                        </div>
+                        <hr>
+
+                   
+
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <a class="btn btn-info " target="__blank" href="/Clients">Back</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>

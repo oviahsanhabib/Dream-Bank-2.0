@@ -1,0 +1,68 @@
+﻿@page 
+@model Dream_Bank.Pages.Clients.StatementModel
+@{
+    ViewData["Title"] = "Transaction History";
+}
+<pre></pre>
+<div class="col-11 mx-auto pt-1">
+    <div class="card">
+        <div class="card-header bg-info text-white">
+            <h4 class="mb-3">Transaction History</h4>
+            <p class="mb-0">
+                <strong>Client Name:</strong> @Model.Transactions.FirstOrDefault()?.ClientFirstName @Model.Transactions.FirstOrDefault()?.ClientLastName
+            </p>
+            <div class="d-flex justify-content-between align-items-end">
+                <div class="small-text text-right">
+                    <strong>Date:</strong> @DateTime.Now.ToString("yyyy-MM-dd hh:mm")
+                </div>
+                <div class="text-right">
+                    <div class="small-text">
+                        <strong>Statement Start Date:</strong> @Model.MinDate.ToShortDateString()
+                    </div>
+                    <div class="small-text">
+                        <strong>Statement End Date:</strong> @Model.MaxDate.ToShortDateString()
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="table">
+
+
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Transaction ID</th>
+                        <th>Description</th>
+                        <th>Amount</th>
+                        <th>Transaction Type</th>
+                        <th>Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var transaction in Model.Transactions)
+                    {
+                        <tr>
+                            <td>@transaction.TransactionId</td>
+                            <td>@transaction.Description</td>
+                            <td>@transaction.Amount</td>
+                            <td>@transaction.TransactionType</td>
+                            <td>@transaction.Date.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="card-footer">
+            <strong>Total Balance: @Model.TotalBalance.ToString("C")</strong>
+        </div>
+    </div>
+
+
+</div>
+
+

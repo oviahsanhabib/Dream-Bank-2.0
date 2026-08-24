@@ -1,0 +1,54 @@
+﻿@page
+@model Dream_Bank.Pages.Clients.DepositMainModel
+@{
+}
+<pre></pre>
+<div class="col-11 mx-auto pt-0">
+    <div class="card">
+        <div class="card-header bg-info text-uppercase text-white">
+            <h4>Deposit</h4>
+        </div>
+    </div>
+        <pre></pre>
+
+        <div class="table">
+            <table id="myTable" class="table table-bordered table-hover table-sm">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Account No</th>
+                        <th>Account Type</th>
+                        <th>Gender</th>
+                        <th>Date of Birth</th>
+
+
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.listClients)
+                    {
+                        <tr>
+                            <td>@item.id</td>
+                            <td>@item.fname</td>
+                            <td>@item.lname</td>
+                            <td>@item.account_no</td>
+                            <td>@item.account_type</td>
+                            <td>@item.gender</td>
+                            <td>@item.dob</td>
+
+
+                            <td>
+
+                                <a class="btn btn-primary btn-sm" href="/Clients/Deposit?id=@item.id">Deposit</a>
+                            </td>
+
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>

@@ -1,0 +1,162 @@
+﻿@page
+@model Dream_Bank.Pages.Clients.EditModel
+
+<div class="container mt-5">
+    <div class="col-11 mx-auto pt-1">
+        <div class="card">
+            <div class="card-header bg-info text-uppercase text-white">
+                <h4 class="mb-0">Edit Client Info</h4>
+            </div>
+            <div class="card-body">
+                @if (Model.errorMessage.Length > 0)
+                {
+                    <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+                        <strong>@Model.errorMessage</strong>
+                        <button type="button" class="btn-close" data-bs-dismiss='alert'></button>
+                    </div>
+                }
+
+                <form method="post">
+                    <input type="hidden" name="id" value="@Model.clientInfo.id">
+
+                    <!-- Form fields -->
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">First Name</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="fname" value="@Model.clientInfo.fname" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Last Name</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="lname" value="@Model.clientInfo.lname" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Account No</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="account_no" value="@Model.clientInfo.account_no" readonly>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Account Type</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="account_type" value="@Model.clientInfo.account_type" readonly>
+                        </div>
+                    </div>
+                 
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Gender</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="gender" value="@Model.clientInfo.gender" readonly>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Date of Birth</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="dob" value="@Model.clientInfo.dob" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Address</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="address" value="@Model.clientInfo.address" required>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">City</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="city" value="@Model.clientInfo.city" required>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">State</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="state" value="@Model.clientInfo.state" required>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Postal Code</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="postal" value="@Model.clientInfo.postal" required>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Country</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="country" value="@Model.clientInfo.country" required>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Email</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="email" value="@Model.clientInfo.email" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Phone</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="phone" value="@Model.clientInfo.phone" required>
+                        </div>
+                    </div>
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Social Security No</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="ssn" value="@Model.clientInfo.ssn" required>
+                        </div>
+                    </div>
+
+
+                    <div class="mb-3 row">
+                        <label class="col-sm-3 col-form-label">Current Balance</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="indeposit" value="@Model.clientInfo.indeposit" required>
+                        </div>
+                    </div>
+
+
+
+                    <!-- Add similar markup for other form fields -->
+                    @if (Model.successMessage.Length > 0)
+                    {
+                        <div class="mb-3 row">
+                            <div class="col-sm-9">
+                                <div class='alert alert-success alert-dismissible fade show' role='alert'>
+                                    <strong>@Model.successMessage</strong>
+                                    <button type="button" class="btn-close" data-bs-dismiss='alert'></button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    <div class="mb-3 row">
+                        <div class="col-sm-3"></div>
+                        <div class="col-sm-9 d-grid gap-2">
+                            <button type="submit" class="btn btn-info">Update</button>
+                            <a class="btn btn-outline-primary" href="/Clients/Update" role="button">Cancel</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
