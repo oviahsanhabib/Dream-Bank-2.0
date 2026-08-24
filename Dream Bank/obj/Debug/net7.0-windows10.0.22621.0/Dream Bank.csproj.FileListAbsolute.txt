@@ -1,0 +1,317 @@
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.Development.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.staticwebassets.runtime.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.exe
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.deps.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.runtimeconfig.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Humanizer.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Identity.Client.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Logging.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Win32.SystemEvents.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Newtonsoft.Json.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Configuration.ConfigurationManager.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Drawing.Common.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Runtime.Caching.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Permissions.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Windows.Extensions.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\sni.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\sni.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\sni.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.AssemblyReference.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfoInputs.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfo.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.CoreCompileInputs.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.Dream Bank.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.build.Dream Bank.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.buildMultiTargeting.Dream Bank.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.buildTransitive.Dream Bank.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.pack.json
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.json
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.development.json
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\scopedcss\bundle\Dream Bank.styles.css
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.CopyComplete
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\refint\Dream Bank.dll
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.genruntimeconfig.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\ref\Dream Bank.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.Development.json
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.json
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.staticwebassets.runtime.json
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.exe
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.deps.json
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.runtimeconfig.json
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Humanizer.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Data.SqlClient.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Identity.Client.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Logging.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Win32.SystemEvents.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Newtonsoft.Json.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Configuration.ConfigurationManager.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Data.SqlClient.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Drawing.Common.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Runtime.Caching.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Permissions.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Windows.Extensions.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\sni.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\sni.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\sni.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+E:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.AssemblyReference.cache
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfoInputs.cache
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfo.cs
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.CoreCompileInputs.cache
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.MvcApplicationPartsAssemblyInfo.cache
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cache
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cs
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.Dream Bank.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.build.Dream Bank.props
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.buildMultiTargeting.Dream Bank.props
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets\msbuild.buildTransitive.Dream Bank.props
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.pack.json
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.json
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.development.json
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\scopedcss\bundle\Dream Bank.styles.css
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.CopyComplete
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\refint\Dream Bank.dll
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.genruntimeconfig.cache
+E:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\ref\Dream Bank.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.Development.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.staticwebassets.runtime.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.staticwebassets.endpoints.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.exe
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.deps.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.runtimeconfig.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Humanizer.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Identity.Client.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Newtonsoft.Json.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Data.SqlClient.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Drawing.Common.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Runtime.Caching.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Permissions.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Windows.Extensions.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\sni.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\sni.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.AssemblyReference.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rpswa.dswa.cache.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfoInputs.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfo.cs
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.CoreCompileInputs.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cs
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rjimswa.dswa.cache.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rjsmrazor.dswa.cache.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rjsmcshtml.dswa.cache.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\scopedcss\bundle\Dream Bank.styles.css
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.json.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.development.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.endpoints.json
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\swae.build.ex.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.upToDateCheck.txt
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.Up2Date
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\refint\Dream Bank.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.genruntimeconfig.cache
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\ref\Dream Bank.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\ahovi\Downloads\Dream Bank (1)\Dream Bank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.Development.json
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.staticwebassets.endpoints.json
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\appsettings.json
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.staticwebassets.runtime.json
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.exe
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.deps.json
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.runtimeconfig.json
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Humanizer.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Identity.Client.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Newtonsoft.Json.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Drawing.Common.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Runtime.Caching.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Security.Permissions.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\System.Windows.Extensions.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-arm64\native\sni.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x64\native\sni.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win-x86\native\sni.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+D:\New folder (3)\DreamBank\Dream Bank\bin\Debug\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.AssemblyReference.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rpswa.dswa.cache.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfoInputs.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.AssemblyInfo.cs
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.CoreCompileInputs.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.RazorAssemblyInfo.cs
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.sourcelink.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rjimswa.dswa.cache.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rjsmrazor.dswa.cache.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\rjsmcshtml.dswa.cache.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\scopedcss\bundle\Dream Bank.styles.css
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.json.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.development.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.build.endpoints.json
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\swae.build.ex.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\staticwebassets.upToDateCheck.txt
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.csproj.Up2Date
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.dll
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\refint\Dream Bank.dll
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.pdb
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\Dream Bank.genruntimeconfig.cache
+D:\New folder (3)\DreamBank\Dream Bank\obj\Debug\net7.0-windows10.0.22621.0\ref\Dream Bank.dll

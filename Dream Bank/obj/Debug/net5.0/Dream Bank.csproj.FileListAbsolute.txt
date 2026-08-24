@@ -1,0 +1,194 @@
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\appsettings.Development.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\appsettings.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.exe
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.deps.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.runtimeconfig.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.runtimeconfig.dev.json
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.Views.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.Views.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.csproj.AssemblyReference.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.AssemblyInfoInputs.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.AssemblyInfo.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.csproj.CoreCompileInputs.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorAssemblyInfo.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorAssemblyInfo.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\Dream Bank.StaticWebAssets.Manifest.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\scopedcss\bundle\Dream Bank.styles.css
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.TagHelpers.input.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.TagHelpers.output.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorCoreGenerate.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorTargetAssemblyInfo.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorTargetAssemblyInfo.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.Views.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.dll
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\ref\Dream Bank.dll
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.genruntimeconfig.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.csproj.CopyComplete
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Humanizer.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Index.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Create.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Edit.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Transaction.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Update.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\View.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Deposit.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\DepositMain.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Withdrawalfun.cshtml.g.cs
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Delete.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\appsettings.json
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.exe
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.deps.json
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.runtimeconfig.json
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.runtimeconfig.dev.json
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\ref\Dream Bank.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.Views.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Dream Bank.Views.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.AssemblyInfoInputs.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.AssemblyInfo.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.csproj.CoreCompileInputs.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorAssemblyInfo.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorAssemblyInfo.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\Dream Bank.StaticWebAssets.Manifest.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\Dream Bank.StaticWebAssets.xml
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\scopedcss\bundle\Dream Bank.styles.css
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.TagHelpers.input.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.TagHelpers.output.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorCoreGenerate.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Create.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Delete.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Deposit.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\DepositMain.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Edit.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Index.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Transaction.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Update.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\View.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Clients\Withdrawalfun.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Logout.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorTargetAssemblyInfo.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.RazorTargetAssemblyInfo.cs
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.Views.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.csproj.CopyComplete
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\ref\Dream Bank.dll
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.pdb
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.genruntimeconfig.cache
+C:\Users\ahovi\OneDrive\Desktop\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\Dream Bank.csproj.AssemblyReference.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\Dream Bank.StaticWebAssets.Pack.cache
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\msbuild.Dream Bank.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\msbuild.build.Dream Bank.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Dream Bank.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Dream Bank.props
+C:\Dream Bank\Dream Bank\Dream Bank\obj\Debug\net5.0\refint\Dream Bank.dll
